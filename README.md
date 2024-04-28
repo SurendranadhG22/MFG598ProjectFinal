@@ -39,9 +39,7 @@ cd line-following-drone
 ```
 
 3. Install the required packages:
-```bash
-pip install -r requirements.txt
-```
+
 
 4. Run the main script:
 ```bash
